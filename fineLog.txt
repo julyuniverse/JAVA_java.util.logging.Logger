@@ -1,0 +1,16 @@
+3월 25, 2022 10:38:47 오후 MyLogger log
+미세: test log
+3월 25, 2022 10:38:47 오후 MyLogger log
+구성: test log
+3월 25, 2022 10:38:47 오후 MyLogger log
+정보: test log
+3월 25, 2022 10:38:47 오후 MyLogger log
+경고: test log
+3월 25, 2022 10:38:47 오후 MyLogger log
+심각: test log
+3월 25, 2022 10:39:07 오후 MyLogger warning
+경고: 이름이 비었습니다.
+3월 25, 2022 10:39:07 오후 MyLogger warning
+경고: 이름이 너무 길어요.
+3월 25, 2022 10:39:07 오후 MyLogger fine
+미세: begin getStudentName()
